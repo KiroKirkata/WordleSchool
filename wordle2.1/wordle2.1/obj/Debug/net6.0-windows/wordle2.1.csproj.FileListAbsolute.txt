@@ -1,0 +1,17 @@
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\wordle2.1.csproj.AssemblyReference.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\wordle2.1.csproj.GenerateResource.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\wordle2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\wordle2.1.AssemblyInfoInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\wordle2.1.AssemblyInfo.cs
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\wordle2.1.csproj.CoreCompileInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\bin\Debug\net6.0-windows\wordle2.1.exe
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\bin\Debug\net6.0-windows\wordle2.1.deps.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\bin\Debug\net6.0-windows\wordle2.1.runtimeconfig.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\bin\Debug\net6.0-windows\wordle2.1.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\bin\Debug\net6.0-windows\wordle2.1.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\Wordle.WordleForm.resources
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\wordle2.1.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\refint\wordle2.1.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\wordle2.1.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\wordle2.1.genruntimeconfig.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\WordleSchool\wordle2.1\wordle2.1\obj\Debug\net6.0-windows\ref\wordle2.1.dll
